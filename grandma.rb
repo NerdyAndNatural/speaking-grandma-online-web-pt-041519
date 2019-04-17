@@ -14,7 +14,8 @@
 
 
 def speak_to_grandma (sonny)
-if sonny 
+if sonny == sonny.uppercase
+  puts"
   else
     puts "HUH?! SPEAK UP SONNY!"
 end
