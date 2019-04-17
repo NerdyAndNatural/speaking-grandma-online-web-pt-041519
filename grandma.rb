@@ -15,7 +15,7 @@
 
 def speak_to_grandma (sonny)
   if sonny == sonny.upcase
-    puts "NO! NOT SINCE 1938!"
+    puts "NO, NOT SINCE 1938!"
   elseif sonny == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   else
