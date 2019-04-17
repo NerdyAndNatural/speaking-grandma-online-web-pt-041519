@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma ()
+def speak_to_grandma (phrase)
   if sonny == "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
  elseif sonny == "I LOVE YOU GRANDMA!"
