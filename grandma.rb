@@ -19,6 +19,6 @@ def speak_to_grandma (sonny)
   elseif sonny == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   else
-    puts "HUH?! SPEAK UP SONNY!"
+    puts "HUH?! SPEAK UP, SONNY!"
 end
 end
