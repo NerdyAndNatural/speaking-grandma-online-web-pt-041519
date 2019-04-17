@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if SONNY == ""
+  if SONNY == "WHAT DID YOU EAT TODAY?"
 else
   puts "HUH?! SPEAK UP SONNY!"
 end
