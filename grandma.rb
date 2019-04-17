@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def GRANDMA
+  if "I LOVE YOU GRANDMA"
+    puts "I LOVE YOU TOO PUMPKIN!"
 end
