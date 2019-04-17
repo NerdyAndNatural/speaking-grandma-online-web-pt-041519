@@ -14,6 +14,9 @@
 
 def speak_to_grandma
   if SONNY == "WHAT DID YOU EAT TODAY?"
-else
-  puts "HUH?! SPEAK UP SONNY!"
+    puts "NO, NOT SINCE 1938!"
+ elseif SONNY == "I LOVE YOU GRANDMA!"
+   puts "I LOVE YOU TOO PUMPKIN!"
+  else
+    puts "HUH?! SPEAK UP SONNY!"
 end
