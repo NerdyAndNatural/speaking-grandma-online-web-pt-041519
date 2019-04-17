@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-  if SONNY == "WHAT DID YOU EAT TODAY?"
+  if sonny == "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
- elseif SONNY == "I LOVE YOU GRANDMA!"
+ elseif sonny == "I LOVE YOU GRANDMA!"
    puts "I LOVE YOU TOO PUMPKIN!"
   else
     puts "HUH?! SPEAK UP SONNY!"
